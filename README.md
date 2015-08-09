@@ -14,6 +14,8 @@ sudo apt-get install ratpoison stalonetray
 sudo apt-get install vim-nox ranger cmus 
 #### Fonts
 sudo apt-get install ttf-mscorefonts-installer ttf-dejavu ttf-xfree86-nonfree
+#### Archives
+sudo apt-get install p7zip p7zip-full p7zip-rar unrar rar unzip zip
 #### Firmware
 sudo apt-get install linux-firmware linux-firmware-nonfree intel-microcode 
 #### Codecs
