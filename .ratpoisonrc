@@ -1,0 +1,54 @@
+#############################
+# mesaj penceresi ayarlari
+#############################
+set barpadding 16 12
+set fgcolor #00FF99
+set bgcolor #000000
+# secili pencerenin cerceve rengi
+set fwcolor #00FF99
+
+# stalonetray arka planda bulunsun
+unmanage stalonetray
+
+
+###############################
+# acilis programlari
+###############################
+exec pkill nm-applet
+exec pkill stalonetray
+exec pkill polkit-gnome-authentication-agent-1
+
+
+exec sleep 0.5 && (/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 & stalonetray & nm-applet & xfsettingsd & xfce4-power-manager & light-locker & )
+#/usr/lib/i386-linux-gnu/indicator-power/indicator-power-service & start-pulseaudio-x11 & 
+
+##############################
+#  My Bindings
+##############################
+startup_message off
+
+# Java Swing Problem
+exec wmname LG3D
+
+exec setxkbmap -layout "us(dvorak),tr" -option "grp:alt_shift_toggle,grp_led:scroll" -option compose:menu
+
+# Multi Window
+##exec rpws init 2 -ka
+exec nitrogen --restore
+
+bind d exec firefox --private-window
+bind D exec /home/delta/browser/tor-browser_ru/Browser/start-tor-browser --detach
+bind V exec /home/delta/.screenlayout/lab_vga.sh | ratpoison -c restart
+bind v exec /home/delta/.screenlayout/lab_hdmi.sh | ratpoison -c restart
+#bind l exec xflock4
+#bind L exec x-terminal-emulator -e sudo poweroff
+definekey top Print exec amixer set Master 5%-
+definekey top Scroll_Lock exec  amixer set Master 5%+
+definekey top Pause exec amixer -D pulse set Master toggle
+
+
+
+### What I changed on default xubuntu system
+# xfce4-popup-applicationsmenu   Atl+F1
+# xfrun4 Alt+F2
+
