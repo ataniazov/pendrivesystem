@@ -29,6 +29,7 @@ sudo apt-get install gstreamer1.0-plugins-ugly gstreamer1.0-plugins-good gstream
 sudo apt-get purge thunderbird pidgin gimp gmusicbrowser abiword gnumeric gnome-mines gnome-sudoku onboard system-config-printer-gnome system-config-printer-common simple-scan
 
 ##### Xubuntu 16.04.1
+sudo apt-get remove --purge --auto-remove
 apport apport-gtk apport-symptoms aspell aspell-en avahi-autoipd avahi-daemon avahi-utils
 blueman bluez bluez-cups bluez-obexd brltty brltty-x11
 catfish cheese-common cups cups-browsed cups-bsd cups-client cups-common cups-core-drivers cups-daemon cups-filters cups-filters-core-drivers cups-ppdc cups-server-common
