@@ -9,9 +9,9 @@ UUID=3769d8de-a2f2-4155-b35a-7df214638750 /               ext4    noatime,errors
 ##### On some systems add your hostname to /etc/hosts
 
 #### Apps needed:
-sudo apt-get install ratpoison stalonetray  
+sudo apt-get install i3 
 #### CLI tools
-sudo apt-get install vim-nox ranger cmus openvpn
+sudo apt-get install vim-nox ranger cmus htop
 #### Fonts
 sudo apt-get install ttf-mscorefonts-installer ttf-dejavu ttf-xfree86-nonfree
 #### Archives
