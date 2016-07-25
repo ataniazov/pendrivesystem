@@ -1,0 +1,19 @@
+accountsservice apport apport-gtk apport-symptoms aspell aspell-en avahi-autoipd avahi-daemon avahi-utils
+blueman bluez bluez-cups bluez-obexd brltty brltty-x11
+catfish cheese-common cups cups-browsed cups-bsd cups-client cups-common cups-core-drivers cups-daemon cups-filters cups-filters-core-drivers cups-ppdc cups-server-common
+debconf-i18n
+enchant espeak espeak-data:amd64 evolution-data-server-common
+firefox firefox-locale-en fonts-guru fonts-guru-extra fonts-kacst fonts-kacst-one fonts-khmeros-core fonts-lao fonts-lklug-sinhala fonts-lohit-guru fonts-nanum fonts-sil-abyssinica fonts-sil-padauk fonts-takao-pgothic fonts-thai-tlwg fonts-tibetan-machine fonts-tlwg-garuda fonts-tlwg-garuda-ttf fonts-tlwg-kinnari fonts-tlwg-kinnari-ttf fonts-tlwg-laksaman fonts-tlwg-laksaman-ttf fonts-tlwg-loma fonts-tlwg-loma-ttf fonts-tlwg-mono fonts-tlwg-mono-ttf fonts-tlwg-norasi fonts-tlwg-norasi-ttf fonts-tlwg-purisa fonts-tlwg-purisa-ttf fonts-tlwg-sawasdee fonts-tlwg-sawasdee-ttf fonts-tlwg-typewriter fonts-tlwg-typewriter-ttf fonts-tlwg-typist fonts-tlwg-typist-ttf fonts-tlwg-typo fonts-tlwg-typo-ttf fonts-tlwg-umpush fonts-tlwg-umpush-ttf fonts-tlwg-waree fonts-tlwg-waree-ttf
+genisoimage gigolo gnome-accessibility-themes gnome-keyring gnome-mines gnome-software gnome-software-common gnome-sudoku gnome-user-guide
+hplip hplip-data hunspell-en-us hyphen-en-us
+imagemagick imagemagick-6.q16 imagemagick-common ippusbxd
+libabw-0.1-1v5:amd64 libavahi-core7:amd64 libavahi-glib1:amd64 libbdplus0:amd64 libbluray1:amd64 libbrlapi0.6:amd64 libburn4:amd64 libcamel-1.2-54:amd64 libcdio-cdda1:amd64 libcdio-paranoia1:amd64 libcdio13:amd64 libcheese8:amd64 libcupscgi1:amd64 libcupsmime1:amd64 libcupsppdc1:amd64 libebackend-1.2-10:amd64 libebook-1.2-16:amd64 libebook-contacts-1.2-2:amd64 libedata-book-1.2-25:amd64 libedataserver-1.2-21:amd64 libespeak1:amd64 libgnome-keyring-common libgnome-keyring0:amd64 libgoa-1.0-0b:amd64 libgoa-1.0-common libgphoto2-6:amd64 libgphoto2-l10n libgphoto2-port12:amd64 libgsm1:amd64 libgtkspell0 libgtkspell3-3-0:amd64 libgutenprint2 libhpmud0:amd64 liblouis-data liblouis9:amd64 liblouisutdml-bin liblouisutdml-data liblouisutdml6:amd64 libp11-kit-gnome-keyring:amd64 libreoffice-base-core libreoffice-calc libreoffice-common libreoffice-core libreoffice-gtk libreoffice-help-en-us libreoffice-math libreoffice-style-elementary libreoffice-style-galaxy libreoffice-writer libsane-hpaio:amd64 libwacom-bin libwacom-common libwacom2:amd64 libwbclient0:amd64
+memtest86+
+onboard onboard-data openoffice.org-hyphenation os-prober
+parole pidgin pidgin-data pidgin-libnotify pidgin-otr popularity-contest printer-driver-brlaser printer-driver-c2esp printer-driver-foo2zjs printer-driver-foo2zjs-common printer-driver-gutenprint printer-driver-hpcups printer-driver-min12xxw printer-driver-pnm2ppa printer-driver-postscript-hp printer-driver-ptouch printer-driver-pxljr printer-driver-sag-gdi printer-driver-splix 
+samba-libs:amd64 sane-utils simple-scan snapd system-config-printer-common system-config-printer-gnome system-config-printer-udev
+thunderbird thunderbird-locale-en thunderbird-locale-en-us toshset
+uno-libs3 update-notifier update-notifier-common ure
+wamerican wbritish whoopsie
+xbrlapi xfburn xfce4-cpugraph-plugin xfce4-dict xfce4-mailwatch-plugin xfce4-netload-plugin xfce4-notes xfce4-notes-plugin xfce4-quicklauncher-plugin xfce4-systemload-plugin xfce4-taskmanager xfce4-verve-plugin xfce4-weather-plugin xubuntu-docs xul-ext-ubufox
+yelp yelp-xsl
